@@ -2,9 +2,7 @@
 
 TRTPO-project
 
-Application for text editing with version control.
-
-Programming language used for the project is Python (especially means for developing desktop apps).
+A simple text editor with version control system.
 
 [System requirements](https://github.com/TheStrudel/BookAssistant/blob/master/Documents/Requirements/SRS.md)
 
